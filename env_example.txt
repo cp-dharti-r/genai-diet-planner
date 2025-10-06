@@ -1,0 +1,16 @@
+# Copy this file to .env and fill in your OpenAI API key
+# OpenAI API Configuration
+# Get your API key from: https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# OpenAI Model (gpt-4 recommended for best results)
+OPENAI_MODEL=gpt-4
+
+# Application Configuration
+APP_TITLE=AI Diet Planner
+APP_DESCRIPTION=Personalized diet planning with AI dietitian
+
+# Optional: Customize PDF settings
+# PDF_FONT_SIZE=12
+# PDF_MARGIN=50
+# PDF_LINE_HEIGHT=20
